@@ -15,8 +15,8 @@ If you see any errors, things that have changed, or have any tips, feel free to 
 
 ## Sections
 * [Traveling In](travel.md)
-* [The Venue](venue.md)
-* [The Hotels](hotels.md)
-* [Food in the Area](food.md)
-* [Photoshoot Spots/Other Places](other_places.md)
-* [General Tips and Etiquette](tips.md)
+* [The Venue (WIP)](venue.md)
+* [The Hotels (WIP)](hotels.md)
+* [Food in the Area (WIP)](food.md)
+* [Photoshoot Spots/Other Places (WIP)](other_places.md)
+* [General Tips and Etiquette (WIP)](tips.md)
