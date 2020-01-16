@@ -1,0 +1,1 @@
+# Photoshoot Spots/Other Places
