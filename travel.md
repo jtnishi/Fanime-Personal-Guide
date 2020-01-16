@@ -3,7 +3,7 @@
 ### Driving
 [San Jose McEnery Convention Center](https://www.sanjose.org/convention-center) is located at [150 W San Carlos St, San Jose, CA 95113](https://goo.gl/maps/ugzhWzvdZmcXgJZKA)
 
-<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.5364654309906!2d-121.89120838472134!3d37.329806245407696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcdccb5ab47ed%3A0x736aaec6dbb2c012!2sSan%20Jose%20McEnery%20Convention%20Center!5e0!3m2!1sen!2sus!4v1579189091899!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>-->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.5364654309906!2d-121.89120838472134!3d37.329806245407696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcdccb5ab47ed%3A0x736aaec6dbb2c012!2sSan%20Jose%20McEnery%20Convention%20Center!5e0!3m2!1sen!2sus!4v1579189091899!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 The convention center does have On-site parking, accessible from Market St. at E. San Salvador St., or from Almaden Blvd.  Expect this to be somewhat pricey during Fanime and to fill quickly.
 
