@@ -43,7 +43,7 @@ If you're flying into SJC and wish to take public transit into Downtown San Jose
 
 Alternatively, you can fly into [San Francisco International (SFO)](https://www.flysfo.com/) or [Oakland International (OAK)](https://www.oaklandairport.com/), but expect drives/rideshare times of about 30-60 minutes.  Alternatively, take CalTrain/BART from the airports.  **Note that SuperShuttle has shut down and is no longer an option for traveling from the two remote airports.  For basic ground transportation, you'll need to use another carrier, or a taxi or rideshare service.**
 
-#### Bus (WIP)
+### Bus (WIP)
 
 ## Expected Weather
 
