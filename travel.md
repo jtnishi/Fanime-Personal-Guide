@@ -11,7 +11,7 @@ San Jose also has a number of surface parking lots and garages for parking at du
 
 Of particular note are the garages at [2nd/San Carlos](https://goo.gl/maps/ErEn7RhQ9XsbZYDd6), surface lots available on Almaden, a [surface lot on 2nd, just south of San Carlos](https://goo.gl/maps/Ty3vxL16VPuHToak6), and a couple of garages at [CityView Plaza](https://goo.gl/maps/FaYUkY2ZjJGc8QW68), though CityView Plaza is subject to change with construction expected to happen at the site in the near future, potentially before Fanime.  These will also all likely be busy during Fanime with the large influx of people.
 
-### Public Transport
+### Ground Public Transport
 
 #### VTA
 The primary public transport systems for San Jose are the [VTA](https://www.vta.org/) Light Rail and Bus Systems.
@@ -34,6 +34,8 @@ Alternatively, if you are riding [CalTrain](http://www.caltrain.com/) in from th
 
 This is also applicable to anyone coming in using any form of transportation that terminates at Diridon, such as the various bus services.
 
+#### Bus (WIP)
+
 ### Flying
 For those coming into San Jose, your best bet will be flying into [Mineta San Jose International Airport (SJC)](https://www.flysanjose.com/).  Southwest is the dominant carrier at SJC, so your best bets for flights will usually be on them.  Alaska however does retain a sizable presence, and especially for west coast travelers might be an option.
 
@@ -42,8 +44,6 @@ If you're flying into SJC and wish to take public transit into Downtown San Jose
 **NOTE: Route 60 is free to board at the airport. However, on return, it charges a normal fare.  For those planning on returning by using the Light Rail to bus to get back to the airport, you will want to consider using the [EZfare app](https://www.vta.org/go/fares/ezfare) (or a Clipper card if you're using one) to get the free transfer.**
 
 Alternatively, you can fly into [San Francisco International (SFO)](https://www.flysfo.com/) or [Oakland International (OAK)](https://www.oaklandairport.com/), but expect drives/rideshare times of about 30-60 minutes.  Alternatively, take CalTrain/BART from the airports.  **Note that SuperShuttle has shut down and is no longer an option for traveling from the two remote airports.  For basic ground transportation, you'll need to use another carrier, or a taxi or rideshare service.**
-
-### Bus (WIP)
 
 ## Expected Weather
 
