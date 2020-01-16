@@ -30,7 +30,9 @@ Speaking of BART, also changing for 2020 is that hopefully by the start of Fanim
 
 #### CalTrain
 
-Alternatively, if you are riding [CalTrain](http://www.caltrain.com/) in from the rest of the peninsula, the situation mostly hasn't changed: ride CalTrain to Diridon Station San Jose, head out the tunnel to the light rail stop, and take a Green Line train headed toward Old Ironsides rather than Mountain View.
+Alternatively, if you are riding [CalTrain](http://www.caltrain.com/) in from the rest of the peninsula, the situation mostly hasn't changed from previous years: ride CalTrain to Diridon Station San Jose, head out the tunnel to the light rail stop, and take a Green Line train headed toward Old Ironsides rather than Mountain View.  From there, it should be 2 stops to the Convention Center station.
+
+This is also applicable to anyone coming in using any form of transportation that terminates at Diridon, such as the various bus services.
 
 ### Flying
 For those coming into San Jose, your best bet will be flying into [Mineta San Jose International Airport (SJC)](https://www.flysanjose.com/).  Southwest is the dominant carrier at SJC, so your best bets for flights will usually be on them.  Alaska however does retain a sizable presence, and especially for west coast travelers might be an option.
@@ -40,6 +42,8 @@ If you're flying into SJC and wish to take public transit into Downtown San Jose
 **NOTE: Route 60 is free to board at the airport. However, on return, it charges a normal fare.  For those planning on returning by using the Light Rail to bus to get back to the airport, you will want to consider using the [EZfare app](https://www.vta.org/go/fares/ezfare) (or a Clipper card if you're using one) to get the free transfer.**
 
 Alternatively, you can fly into [San Francisco International (SFO)](https://www.flysfo.com/) or [Oakland International (OAK)](https://www.oaklandairport.com/), but expect drives/rideshare times of about 30-60 minutes.  Alternatively, take CalTrain/BART from the airports.  **Note that SuperShuttle has shut down and is no longer an option for traveling from the two remote airports.  For basic ground transportation, you'll need to use another carrier, or a taxi or rideshare service.**
+
+#### Bus (WIP)
 
 ## Expected Weather
 
